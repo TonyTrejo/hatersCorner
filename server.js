@@ -7,16 +7,23 @@ var mongoose = require("mongoose");
 var axios = require("axios");
 var cheerio = require("cheerio");
 
-const PORT = 3000;
+const PORT = 3000 || process.env.PORT;
 
+var app = express();
 // require models folder
-var db = reguire('./models');
+//var db = require('./models');
 
-    // route to scrape SD Rostra
-app.get("/scrape", function(req, res){
-    axios.get("http://sdrostra.com").then(function(response){
-        let $ = cheerio.load(response.data);
-        //grab the article tag
-        $("")
-    })
-})
+//body parser in the app
+app.use(body.Parser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+
+app.listen(PORT, function () {
+    console.log("Connection...");
+});
+
+// By default mongoose uses callbacks for async queries, we're setting it to use promises (.then syntax) instead
+// Connect to the Mongo DB
+mongoose.Promise = Promise;
+mongoose.connect("mongodb://localhost/week18Populater", {
+  useMongoClient: true
+});
