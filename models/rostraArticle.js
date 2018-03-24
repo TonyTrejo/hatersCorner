@@ -28,6 +28,6 @@ let rostraSchema = new Schema({
     },
 });
 
-var rostraArticle = mongoose.model('rostraAricle', rostraArticle);
+var rostraArticle = mongoose.model('rostraArticle', rostraSchema);
 
 module.exports = rostraArticle;
