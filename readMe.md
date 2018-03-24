@@ -4,14 +4,7 @@ Sites being scraped
     <h2 class="entry-title">
 <a href="https://sdrostra.com/rostra-administrator-thors-assistant/krvaric-in-sdut-im-a-republican-heres-what-i-think-about-partisan-politics-in-201/" title="Permalink to: &quot;Krvaric in SDUT: I’m a Republican. Here’s what I think about partisan politics in 2018.&quot;" style="outline: none;">Krvaric in SDUT: I’m a Republican. Here’s what I think about partisan politics in 2018.</a>
 </h2>
-    San Diego Free Press
-    <h2 class="entry-title">
-<a href="https://sdrostra.com/rostra-administrator-thors-assistant/krvaric-in-sdut-im-a-republican-heres-what-i-think-about-partisan-politics-in-201/" title="Permalink to: &quot;Krvaric in SDUT: I’m a Republican. Here’s what I think about partisan politics in 2018.&quot;" style="outline: none;">Krvaric in SDUT: I’m a Republican. Here’s what I think about partisan politics in 2018.</a>
-</h2>
-    VoiceofSanDiego
-   <div class="excerpt-lede">
-            <p>We talk with the Democrats running to replace Duncan Hunter, Jr. in the 50th Congressional District. They represent very different sides of the Democratic Party. Also, why nobody challenged two San Diego school board members.</p>
-
-        </div>
-Sasn Diego Union Tribune
-<a href="/news/politics/sd-me-cox-surge-20180322-story.html#nt=oft03a-1la1" class="trb_outfit_primaryItem_article_title_a">New poll puts Republican John Cox of Rancho Santa Fe in second place in governor's race</a>
+    San Diego Free Presshttps://sandiegofreepress.org/
+   <h2 class="entry-title" itemprop="headline"><a href="https://sandiegofreepress.org/2018/03/music-to-inspire-a-march-for-our-lives-movement-video-worth-watching/">Music to Inspire a March For Our Lives Movement | Video Worth Watching</a></h2>
+<a 
+   

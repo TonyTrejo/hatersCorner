@@ -27,7 +27,7 @@ app.get("/scrape", function (req, res) {
 
 // scrape free press
 app.get("/scrape", function (req, res) {
-    axios.get("http://sdrostra.com").then(function (response) {
+    axios.get("http://https://sandiegofreepress.org/").then(function (response) {
         //selector   
         let $ = cheerio.load(response.data);
         //grab the article tag (I don't understand how to aply the selector link)
